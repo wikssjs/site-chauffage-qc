@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /soumission-chauffage/
+Crawl-delay: 1
+
+Sitemap: https://experts-chauffage.ca/sitemap-index.xml
